@@ -1,0 +1,6 @@
+scores
+scores.exe
+*.obj
+*.o
+*.pdb
+*.ilk
